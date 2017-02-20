@@ -7,6 +7,7 @@ success|[sucess](https://github.com/faameem/path-to-ai/blob/master/success.md)
 [How To Create a Twitter App](https://www.digitalocean.com/community/tutorials/how-to-create-a-twitter-app)|[02-how-to-create-a-twitter-app](https://github.com/faameem/path-to-ai/blob/master/natural-language-processing/02-how-to-create-a-twitter-app.ipynb)
 [How To Create a Twitterbot with Python 3 and the Tweepy Library](https://www.digitalocean.com/community/tutorials/how-to-create-a-twitterbot-with-python-3-and-the-tweepy-library)|[03-how-to-create-a-twitterbot-with-python3-and-the-tweepy-library](https://github.com/faameem/path-to-ai/blob/master/natural-language-processing/03-how-to-create-a-twitterbot-with-python3-and-the-tweepy-library.ipynb)
 [Natural Langauge Processing](https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/)|tbd
+[Natural Language Processing](https://pythonprogramming.net/scraping-parsing-rss-feed/)|tbd
 [Docker Explained: How To Containerize Python Web Applications](https://www.digitalocean.com/community/tutorials/docker-explained-how-to-containerize-python-web-applications)|tbd
 
 
