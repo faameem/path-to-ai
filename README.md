@@ -9,6 +9,8 @@ success|[sucess](https://github.com/faameem/path-to-ai/blob/master/success.md)
 [Streaming Tweets from Twitter to Database](https://pythonprogramming.net/twitter-api-streaming-tweets-python-tutorial/)|tbd
 [Natural Langauge Processing](https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/)|[04-natural-language-processing](https://github.com/faameem/path-to-ai/blob/master/natural-language-processing/04-natural-language-processing.ipynb)
 [Natural Language Processing](https://pythonprogramming.net/scraping-parsing-rss-feed/)|tbd
+[Introduction to Matplotlib](https://pythonprogramming.net/matplotlib-intro-tutorial/)|tbd
+[Matplotlib crash course](https://pythonprogramming.net/3d-graphing-python-matplotlib/)|tbd
 [Docker Explained: How To Containerize Python Web Applications](https://www.digitalocean.com/community/tutorials/docker-explained-how-to-containerize-python-web-applications)|tbd
 
 
