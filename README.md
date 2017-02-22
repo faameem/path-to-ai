@@ -12,6 +12,8 @@ Web Scraping [1](http://docs.python-guide.org/en/latest/scenarios/scrape/) [2](h
 [Natural Language Processing](https://pythonprogramming.net/scraping-parsing-rss-feed/)|tbd
 [Introduction to Matplotlib](https://pythonprogramming.net/matplotlib-intro-tutorial/)|tbd
 [Matplotlib crash course](https://pythonprogramming.net/3d-graphing-python-matplotlib/)|tbd
+[Getting Started with MongoDB (Python Edition)](https://docs.mongodb.com/getting-started/python/)|tbd
+[MongoDB Connector for Spark](https://docs.mongodb.com/spark-connector/v2.0/)|tbd
 [Docker Explained: How To Containerize Python Web Applications](https://www.digitalocean.com/community/tutorials/docker-explained-how-to-containerize-python-web-applications)|tbd
 
 
