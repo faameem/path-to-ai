@@ -19,6 +19,7 @@ PDF Parsing [1](https://dzone.com/articles/pdf-reading) [2](https://quantcorner.
 [MongoDB Connector for Spark](https://docs.mongodb.com/spark-connector/v2.0/)|tbd
 [Docker Explained: How To Containerize Python Web Applications](https://www.digitalocean.com/community/tutorials/docker-explained-how-to-containerize-python-web-applications)|tbd
 [Programming notes - especially python flask](https://www3.ntu.edu.sg/home/ehchua/programming/index.html)|tbd
+[Creating a Web App From Scratch Using Python Flask and MySQL](https://code.tutsplus.com/series/creating-a-web-app-from-scratch-using-python-flask-and-mysql--cms-827)|tbd
 
 
 
