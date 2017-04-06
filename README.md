@@ -20,6 +20,7 @@ PDF Parsing [1](https://dzone.com/articles/pdf-reading) [2](https://quantcorner.
 [Docker Explained: How To Containerize Python Web Applications](https://www.digitalocean.com/community/tutorials/docker-explained-how-to-containerize-python-web-applications)|tbd
 [Programming notes - especially python flask](https://www3.ntu.edu.sg/home/ehchua/programming/index.html)|tbd
 [Creating a Web App From Scratch Using Python Flask and MySQL](https://code.tutsplus.com/series/creating-a-web-app-from-scratch-using-python-flask-and-mysql--cms-827)|tbd
+[Flask Web Application Development](http://www.vertabelo.com/blog/technical-articles/web-app-development-with-flask-sqlalchemy-bootstrap-introduction)|tbd
 
 
 
