@@ -3,3 +3,22 @@ credentials.py
 
 # jupyter notebook checkpoints
 .ipynb_checkpoints
+
+# data files
+*.zip
+*.csv
+*.txt
+*.gz
+*.tar
+
+# serialized (models)
+*.joblib
+*.pickle
+
+# compiled python
+*.pyc
+
+# python projects
+.project
+.pydevproject
+
