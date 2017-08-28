@@ -15,6 +15,9 @@ kaggle dataset - [Zoo Animal Classification](https://www.kaggle.com/uciml/zoo-an
 no free hunch - tutorials: [The Best Sources to Study Machine Learning and AI: Quora Session Highlight](http://blog.kaggle.com/2017/04/17/the-best-sources-to-study-machine-learning-and-ai-with-ben-hamner-kaggle-cto/)| tbd
 **_June_**|**_2017_**
 kaggle competitions - getting started - [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic), [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques), [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer), [Facial Keypoints Detection](https://www.kaggle.com/c/facial-keypoints-detection), [Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial), [Data Science London + Scikit-learn](https://www.kaggle.com/c/data-science-london-scikit-learn), [Just the Basics - Strata 2013 After-party](https://www.kaggle.com/c/just-the-basics-the-after-party), [Just the Basics - Strata 2013](https://www.kaggle.com/c/just-the-basics-strata-2013)|tbd
+**_July_**|**_2017_**
+**_August_**|**_2017_**
+
 **_ToDo_**|tbd
 [Hacker's guide to Neural Networks](https://karpathy.github.io/neuralnets/)|tbd
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)|tbd
