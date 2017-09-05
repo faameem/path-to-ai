@@ -22,6 +22,7 @@ Comparison of Apache Stream Processing Frameworks - [1](http://www.cakesolutions
 [Reactive App using Actor model and Apache Spark](http://events.linuxfoundation.org/sites/events/files/slides/Reactive%20app%20using%20Actor%20model%20%26%20Apache%20Spark.pdf)|n/a
 [TOUR OF SCALA](http://docs.scala-lang.org/tour/tour-of-scala.html)|n/a
 **_September_**|**_2017_**
+[Twitter Scala School!](https://twitter.github.io/scala_school/)|n/a
 Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron|[00-preface](https://github.com/faameem/path-to-ai/blob/master/machine-learning-books/hands-on-machine-learning-with-scikit-learn-and-tensorflow-by-aurelien-geron/00-preface.ipynb), [01-the-machine-learning-landscape](https://github.com/faameem/path-to-ai/blob/master/machine-learning-books/hands-on-machine-learning-with-scikit-learn-and-tensorflow-by-aurelien-geron/01-the-machine-learning-landscape.ipynb)
 **_ToDo_**|tbd
 [Hacker's guide to Neural Networks](https://karpathy.github.io/neuralnets/)|tbd
