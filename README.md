@@ -23,6 +23,7 @@ Comparison of Apache Stream Processing Frameworks - [1](http://www.cakesolutions
 [TOUR OF SCALA](http://docs.scala-lang.org/tour/tour-of-scala.html)|n/a
 **_September_**|**_2017_**
 [Twitter Scala School!](https://twitter.github.io/scala_school/)|n/a
+Scala Test-Driven Development by Gaurav Sood|n/a
 Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron|notebooks: [0](https://github.com/faameem/path-to-ai/blob/master/machine-learning-books/hands-on-machine-learning-with-scikit-learn-and-tensorflow-by-aurelien-geron/00-preface.ipynb), [1](https://github.com/faameem/path-to-ai/blob/master/machine-learning-books/hands-on-machine-learning-with-scikit-learn-and-tensorflow-by-aurelien-geron/01-the-machine-learning-landscape.ipynb)
 **_ToDo_**|tbd
 [Hacker's guide to Neural Networks](https://karpathy.github.io/neuralnets/)|tbd
