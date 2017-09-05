@@ -21,6 +21,8 @@ kaggle competitions - getting started - [Titanic: Machine Learning from Disaster
 Comparison of Apache Stream Processing Frameworks - [1](http://www.cakesolutions.net/teamblogs/comparison-of-apache-stream-processing-frameworks-part-1), [2](http://www.cakesolutions.net/teamblogs/comparison-of-apache-stream-processing-frameworks-part-2)|n/a
 [Reactive App using Actor model and Apache Spark](http://events.linuxfoundation.org/sites/events/files/slides/Reactive%20app%20using%20Actor%20model%20%26%20Apache%20Spark.pdf)|n/a
 [TOUR OF SCALA](http://docs.scala-lang.org/tour/tour-of-scala.html)|n/a
+**_September_**|**_2017_**
+Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron|[00-preface](https://github.com/faameem/path-to-ai/blob/master/machine-learning-books/hands-on-machine-learning-with-scikit-learn-and-tensorflow-by-aurelien-geron/00-preface.ipynb), [01-the-machine-learning-landscape](https://github.com/faameem/path-to-ai/blob/master/machine-learning-books/hands-on-machine-learning-with-scikit-learn-and-tensorflow-by-aurelien-geron/01-the-machine-learning-landscape.ipynb)
 **_ToDo_**|tbd
 [Hacker's guide to Neural Networks](https://karpathy.github.io/neuralnets/)|tbd
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)|tbd
