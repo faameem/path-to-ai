@@ -34,3 +34,6 @@
 * Maintainable code.
 * Refactoring freely.
 
+### Scala Test ###
+* Get the latest dependency code snippet for sbt or maven from [ScalaTest](http://www.scalatest.org/user_guide)
+* [Cheat Sheet](http://www.scalatest.org/at_a_glance/FlatSpec)
