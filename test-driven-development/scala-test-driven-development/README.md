@@ -2,7 +2,6 @@
 [Code Bundle](https://github.com/PacktPublishing/Scala-Test-Driven-Development)
 
 ### What this book covers ###
-
 * Chapter 1, Hello, TDD!, contains a brief introduction of TDD and Agile process. We discussed the benefits of TDD and how and why it needs to be used.
 
 * Chapter 2, First Test-Driven Application, creates our very first working application using TDD. The purpose of this chapter is to provide a quick win and give a taste of what lies ahead.
@@ -22,5 +21,16 @@
 * Chapter 9, Miscellaneous and Emerging Trends in Scala TDD, explores some new techniques, features, and processes that may soon become incorporated into the mainstream application development process.
 
 ### What is TDD ###
-
 **Red-Green-Refactor-Repeat**
+* Iteratively writing failing tests, writing enough code to pass the test, refactor, repeat.
+* Baby steps.
+
+### Why TDD ###
+* Code quality.
+* Evolving architecture.
+* Documenting the code.
+* Avoiding over engineering.
+* Paradigm shift - Instead of "How can I solve it?", ask "How can I test it?". This renders requirements into tests.
+* Maintainable code.
+* Refactoring freely.
+
