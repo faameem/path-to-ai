@@ -20,3 +20,7 @@
 * Chapter 8, Scala TDD with Specs2, looks at an alternative testing framework for test-driving Scala code. We also compare ScalaTest and Specs2 so the reader can make an informed choice.
 
 * Chapter 9, Miscellaneous and Emerging Trends in Scala TDD, explores some new techniques, features, and processes that may soon become incorporated into the mainstream application development process.
+
+### What is TDD ###
+
+**Red-Green-Refactor-Repeat**
