@@ -1,1 +1,1 @@
-# Finance #
+# Quantitative Trading #
