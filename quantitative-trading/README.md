@@ -1,5 +1,5 @@
 # Quantitative Trading #
-> * Machine Learning - Quant Trading
+> * Machine Learning - Quant Trading by loonycorn
 
 > * Mastering Pandas for Finance Michael Heydt
 > * Python for Finance by Yves Hilpisch
