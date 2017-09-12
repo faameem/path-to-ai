@@ -7,6 +7,8 @@
 > * Python for Finance by Yuxing Yan
 > * Mastering Python for Finance by James Ma Weiming
 
+> * Keeping Up with the Quants: Your Guide to Understanding and Using Analytics by Jinho Kim, Thomas H. Davenport
+> * Inside the Black Box: A Simple Guide to Quantitative and High Frequency Trading by Rishi K. Narang
 > * What Hedge Funds Really Do by Tucker Balch, Philip J. Romero
 > * Quantitative Trading by Ernest P. Chan
 > * Machine Trading by Ernest P. Chan
