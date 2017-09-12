@@ -1,5 +1,10 @@
 # Quantitative Trading #
 
+### PTQT - Websites ###
+> * [QuantStart](https://www.quantstart.com/)
+> * [QuantStart Articles](https://www.quantstart.com/articles)
+> * [QuantStart Reading List](https://www.quantstart.com/articles/Quantitative-Finance-Reading-List)
+
 ### PTQT - Theory ###
 > * Keeping Up with the Quants: Your Guide to Understanding and Using Analytics by Jinho Kim, Thomas H. Davenport
 > * What Hedge Funds Really Do by Tucker Balch, Philip J. Romero
