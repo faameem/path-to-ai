@@ -8,6 +8,7 @@
 ### PTQT - Theory ###
 > * Keeping Up with the Quants: Your Guide to Understanding and Using Analytics by Jinho Kim, Thomas H. Davenport
 > * What Hedge Funds Really Do by Tucker Balch, Philip J. Romero
+> * Guide to Hedge Funds: What they are, what they do, their risks, their advantages by  Philip Coggan
 > * Inside the Black Box: A Simple Guide to Quantitative and High Frequency Trading by Rishi K. Narang
 > * Quantitative Trading by Ernest P. Chan
 > * Machine Trading by Ernest P. Chan
