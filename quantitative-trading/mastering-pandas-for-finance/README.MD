@@ -1,0 +1,1 @@
+# Mastering pandas for Finance by Michael Heydt ##

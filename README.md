@@ -15,7 +15,24 @@ kaggle dataset - [Zoo Animal Classification](https://www.kaggle.com/uciml/zoo-an
 no free hunch - tutorials: [The Best Sources to Study Machine Learning and AI: Quora Session Highlight](http://blog.kaggle.com/2017/04/17/the-best-sources-to-study-machine-learning-and-ai-with-ben-hamner-kaggle-cto/)| tbd
 **_June_**|**_2017_**
 kaggle competitions - getting started - [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic), [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques), [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer), [Facial Keypoints Detection](https://www.kaggle.com/c/facial-keypoints-detection), [Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial), [Data Science London + Scikit-learn](https://www.kaggle.com/c/data-science-london-scikit-learn), [Just the Basics - Strata 2013 After-party](https://www.kaggle.com/c/just-the-basics-the-after-party), [Just the Basics - Strata 2013](https://www.kaggle.com/c/just-the-basics-strata-2013)|tbd
+**_July_**|**_2017_**
+**_August_**|**_2017_**
+[The Hadoop Ecosystem Table](https://hadoopecosystemtable.github.io/)|n/a
+Comparison of Apache Stream Processing Frameworks - [1](http://www.cakesolutions.net/teamblogs/comparison-of-apache-stream-processing-frameworks-part-1), [2](http://www.cakesolutions.net/teamblogs/comparison-of-apache-stream-processing-frameworks-part-2)|n/a
+[Reactive App using Actor model and Apache Spark](http://events.linuxfoundation.org/sites/events/files/slides/Reactive%20app%20using%20Actor%20model%20%26%20Apache%20Spark.pdf)|n/a
+**_September_**|**_2017_**
+[Machine Learning - Quant Trading](https://www.safaribooksonline.com/library/view/machine-learning-/10000LCQUANTT/)
+Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron|notebooks: [0](https://github.com/faameem/path-to-ai/blob/master/machine-learning-books/hands-on-machine-learning-with-scikit-learn-and-tensorflow-by-aurelien-geron/00-preface.ipynb), [1](https://github.com/faameem/path-to-ai/blob/master/machine-learning-books/hands-on-machine-learning-with-scikit-learn-and-tensorflow-by-aurelien-geron/01-the-machine-learning-landscape.ipynb)
+[Twitter Scala School!](https://twitter.github.io/scala_school/)|n/a
+[TOUR OF SCALA](http://docs.scala-lang.org/tour/tour-of-scala.html)|n/a
+[Apache Spark](https://spark.apache.org/docs/latest/)|n/a
+Scala Test-Driven Development by Gaurav Sood|n/a
 **_ToDo_**|tbd
+[Machine Learning for Trading](https://www.udacity.com/course/machine-learning-for-trading--ud501)|n/a
+Mastering pandas for Finance by Michael Heydt|notebooks: [0]()
+[Trading Strategies in Emerging Markets Specialization](https://www.coursera.org/specializations/trading-strategy)|n/a
+[CAT® Certified Algorithmic Trader Courses](https://www.atassn.com/Classes.aspx)|n/a
+[quantinsti](https://www.quantinsti.com/blog/can-i-be-a-quant-trader-in-my-40s/)|[EPAT – Executive Programme in Algorithmic Trading](https://www.quantinsti.com/epat/)
 [Hacker's guide to Neural Networks](https://karpathy.github.io/neuralnets/)|tbd
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)|tbd
 [Deep Learning - MIT Press](http://www.deeplearningbook.org)|tbd
