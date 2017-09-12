@@ -16,6 +16,7 @@
 > * Algorithmic Trading & DMA by Barry Johnson
 > * Trading and Exchanges by Larry Harris
 > * Finding Alphas: A Quantitative Approach to Building Trading Strategies by Igor Tulchinsky
+> *  Building Winning Algorithmic Trading System by Kevin J. Davey
 > * The Science of Algorithmic Trading and Portfolio Management by Robert Kissell
 > * Dark Pools and High Frequency Trading For Dummies by Jay Vaananen
 > * A Workout in Computational Finance by Michael Aichinger, Andreas Binder
@@ -26,6 +27,7 @@
 > * Derivatives Analytics with Python: Data Analysis, Models, Simulation, Calibration and Hedging by Yves Hilpisch
 > * Python for Finance by Yuxing Yan
 > * Mastering Python for Finance by James Ma Weiming
+> * Designing Stock Market Trading Systems: With and without soft computing by Tobias Hahn, Bruce Vanstone
 
 ### PTQT - AI ###
 > * Machine Learning - Quant Trading by loonycorn
