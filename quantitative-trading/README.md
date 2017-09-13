@@ -34,7 +34,7 @@
 > * Introduction to Time Series Forecasting with Python by Jason Brownlee
 > * Hands on Machine Learning with Scikit-learn and Tensorflow by Aurelien Geron
 > * Books by Jason Brownlee:
-     * Master Machine Learning Algorithms
+    > * Master Machine Learning Algorithms
    * Machine Learning Algorithms From Scratch
    * Machine Learning Mastery with Python
    * XGBoost with Python
