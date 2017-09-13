@@ -5,6 +5,9 @@
 > * [QuantStart Articles](https://www.quantstart.com/articles)
 > * [QuantStart Reading List](https://www.quantstart.com/articles/Quantitative-Finance-Reading-List)
 
+> * [Investopedia - quantitative trading](http://www.investopedia.com/terms/q/quantitative-trading.asp)
+> * [Investopedia - steps to becoming a quant trader](http://www.investopedia.com/articles/active-trading/112614/steps-becoming-quant-trader.asp?ad=dirN&qo=investopediaSiteSearch&qsrc=0&o=40186)
+
 ### PTQT ###
 > * Mastering Pandas for Finance Michael Heydt
 > * Python for Finance by Yves Hilpisch
