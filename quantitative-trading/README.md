@@ -7,6 +7,7 @@
 > * [Python for Finance](http://www.pythonforfinance.net)
 > * [The Python Quants](http://tpq.io/#)
 > * [Certificate in Quantative Finance](https://www.cqfinstitute.org)
+> * [Financial Modeling Institute](https://fminstitute.com) - recommended by Raj
 > * [Investopedia - quantitative trading](http://www.investopedia.com/terms/q/quantitative-trading.asp)
 >   * [Investopedia - steps to becoming a quant trader](http://www.investopedia.com/articles/active-trading/112614/steps-becoming-quant-trader.asp?ad=dirN&qo=investopediaSiteSearch&qsrc=0&o=40186)
 > * youtube subscriptions
