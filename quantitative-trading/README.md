@@ -45,6 +45,7 @@
 > * [pythonprogramming.net finance tutorials](https://pythonprogramming.net/finance-tutorials/)
 > * [Python for Finance](https://www.freetutorials.us/python-for-finance-investment-fundamentals-data-analytics-2/)
 > * Introduction to Time Series Forecasting with Python by Jason Brownlee
+> * [An end to end implementation of a Machine Learning pipeline](https://spandan-madan.github.io/DeepLearningProject/?imm_mid=0f55ac&cmp=em-data-na-na-newsltr_20170809)
 > * Hands on Machine Learning with Scikit-learn and Tensorflow by Aurelien Geron
 > * **_Books by Jason Brownlee_**:
 >     + Master Machine Learning Algorithms
