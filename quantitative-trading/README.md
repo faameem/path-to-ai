@@ -13,7 +13,8 @@
 > * youtube subscriptions
 
 ### PTQT ###
-> * Mastering Pandas for Finance Michael Heydt
+> * Learning pandas by Michael Heydt
+> * Mastering Pandas for Finance by Michael Heydt
 > * Python for Finance by Yves Hilpisch
 > * Derivatives Analytics with Python: Data Analysis, Models, Simulation, Calibration and Hedging by Yves Hilpisch
 > * Python for Finance by Yuxing Yan
