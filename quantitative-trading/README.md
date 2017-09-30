@@ -12,7 +12,8 @@
 >   * [Investopedia - steps to becoming a quant trader](http://www.investopedia.com/articles/active-trading/112614/steps-becoming-quant-trader.asp?ad=dirN&qo=investopediaSiteSearch&qsrc=0&o=40186)
 > * youtube subscriptions
 
-### PTQT ###
+### PTQT-I ###
+> * Python for Data Analysis, 2nd Edition by William Wesley McKinney
 > * Learning pandas by Michael Heydt
 > * Mastering Pandas for Finance by Michael Heydt
 > * Python for Finance by Yves Hilpisch
@@ -20,8 +21,8 @@
 > * Python for Finance by Yuxing Yan
 > * Mastering Python for Finance by James Ma Weiming
 > * Designing Stock Market Trading Systems: With and without soft computing by Tobias Hahn, Bruce Vanstone
-> * Python for Data Analysis, 2nd Edition by William Wesley McKinney
 
+### PTQT-II ###
 > * Keeping Up with the Quants: Your Guide to Understanding and Using Analytics by Jinho Kim, Thomas H. Davenport
 > * What Hedge Funds Really Do by Tucker Balch, Philip J. Romero
 > * Guide to Hedge Funds: What they are, what they do, their risks, their advantages by  Philip Coggan
