@@ -19,6 +19,7 @@
 > * Inside the Black Box: A Simple Guide to Quantitative and High Frequency Trading by Rishi K. Narang
 > * Dark Pools and High Frequency Trading For Dummies by Jay Vaananen
 > * High-Powered Investing All-in-One For Dummies, 2nd Edition
+> * Technical Analysis: The Complete Resource for Financial Market Technicians
 > * Python for Finance by Yves Hilpisch
 > * Derivatives Analytics with Python: Data Analysis, Models, Simulation, Calibration and Hedging by Yves Hilpisch
 > * Python for Finance by Yuxing Yan
