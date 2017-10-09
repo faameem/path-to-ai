@@ -13,7 +13,6 @@
 > * youtube subscriptions
 
 ### PTQT ###
-> * Keeping Up with the Quants: Your Guide to Understanding and Using Analytics by Jinho Kim, Thomas H. Davenport
 > * What Hedge Funds Really Do by Tucker Balch, Philip J. Romero
 > * Guide to Hedge Funds: What they are, what they do, their risks, their advantages by  Philip Coggan
 > * Inside the Black Box: A Simple Guide to Quantitative and High Frequency Trading by Rishi K. Narang
@@ -34,6 +33,7 @@
 > *  Building Winning Algorithmic Trading System by Kevin J. Davey
 > * The Science of Algorithmic Trading and Portfolio Management by Robert Kissell
 > * A Workout in Computational Finance by Michael Aichinger, Andreas Binder
+> * Keeping Up with the Quants: Your Guide to Understanding and Using Analytics by Jinho Kim, Thomas H. Davenport
 
 ### PTQT - AI ###
 > * [datacamp python finance trading](https://www.datacamp.com/community/tutorials/finance-python-trading#gs.BP7ZxCQ)
