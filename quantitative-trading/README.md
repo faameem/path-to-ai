@@ -13,12 +13,7 @@
 > * youtube subscriptions
 
 ### PTQT ###
-> * What Hedge Funds Really Do by Tucker Balch, Philip J. Romero
-> * Guide to Hedge Funds: What they are, what they do, their risks, their advantages by  Philip Coggan
 > * Inside the Black Box: A Simple Guide to Quantitative and High Frequency Trading by Rishi K. Narang
-> * Dark Pools and High Frequency Trading For Dummies by Jay Vaananen
-> * High-Powered Investing All-in-One For Dummies, 2nd Edition
-> * Technical Analysis: The Complete Resource for Financial Market Technicians
 > * Python for Finance by Yves Hilpisch
 > * Derivatives Analytics with Python: Data Analysis, Models, Simulation, Calibration and Hedging by Yves Hilpisch
 > * Python for Finance by Yuxing Yan
@@ -33,6 +28,11 @@
 > *  Building Winning Algorithmic Trading System by Kevin J. Davey
 > * The Science of Algorithmic Trading and Portfolio Management by Robert Kissell
 > * A Workout in Computational Finance by Michael Aichinger, Andreas Binder
+> * What Hedge Funds Really Do by Tucker Balch, Philip J. Romero
+> * Guide to Hedge Funds: What they are, what they do, their risks, their advantages by  Philip Coggan
+> * Dark Pools and High Frequency Trading For Dummies by Jay Vaananen
+> * Technical Analysis: The Complete Resource for Financial Market Technicians
+> * High-Powered Investing All-in-One For Dummies, 2nd Edition
 > * Keeping Up with the Quants: Your Guide to Understanding and Using Analytics by Jinho Kim, Thomas H. Davenport
 
 ### PTQT - AI ###
