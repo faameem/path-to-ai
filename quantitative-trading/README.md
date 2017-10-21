@@ -37,6 +37,7 @@
 
 ### PTQT - AI ###
 > * [datacamp python finance trading](https://www.datacamp.com/community/tutorials/finance-python-trading#gs.BP7ZxCQ)
+> * [datacamp python excel tutorial](https://www.datacamp.com/community/tutorials/python-excel-tutorial)
 > * [sp500 automated trading](https://www.toptal.com/machine-learning/s-p-500-automated-trading)
 > * Machine Learning - Quant Trading by loonycorn
 > * Machine Learning for Trading - Udacity
