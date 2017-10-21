@@ -37,12 +37,14 @@
 
 ### PTQT - AI ###
 > * [datacamp python finance trading](https://www.datacamp.com/community/tutorials/finance-python-trading#gs.BP7ZxCQ)
+> * [sp500 automated trading](https://www.toptal.com/machine-learning/s-p-500-automated-trading)
 > * Machine Learning - Quant Trading by loonycorn
 > * Machine Learning for Trading - Udacity
 > * [Python for Finance](http://www.mariuszoican.org/python-for-finance.html)
 > * [stock market data python](https://ntguardian.wordpress.com/2016/09/19/introduction-stock-market-data-python-1/)
 > * [pythonprogramming.net finance tutorials](https://pythonprogramming.net/finance-tutorials/)
 > * [Python for Finance](https://www.freetutorials.us/python-for-finance-investment-fundamentals-data-analytics-2/)
+> * [Quant Tutorials](https://quantiacs.com/For-Quants/Quant-Tutorials/Videos.aspx)
 > * Introduction to Time Series Forecasting with Python by Jason Brownlee
 > * Python for Data Analysis, 2nd Edition by William Wesley McKinney
 > * Learning pandas by Michael Heydt
