@@ -37,6 +37,9 @@
 
 ### PTQT - AI ###
 > * [datacamp python finance trading](https://www.datacamp.com/community/tutorials/finance-python-trading#gs.BP7ZxCQ)
+> * [datacamp python exploratory data analysis](https://www.datacamp.com/community/tutorials/exploratory-data-analysis-python)
+> * [datacamp python matplotlib](https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python)
+> * [datacamp python machine learning](https://www.datacamp.com/community/tutorials/machine-learning-python)
 > * [datacamp python excel tutorial](https://www.datacamp.com/community/tutorials/python-excel-tutorial)
 > * [sp500 automated trading](https://www.toptal.com/machine-learning/s-p-500-automated-trading)
 > * Machine Learning - Quant Trading by loonycorn
