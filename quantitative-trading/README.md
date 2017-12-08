@@ -1,6 +1,7 @@
 # Quantitative Trading #
 
 ### PTQT - Websites ###
+> * [Turtle Trader](http://www.turtletrader.com/)
 > * [QuantStart](https://www.quantstart.com/)
 >   * [QuantStart Articles](https://www.quantstart.com/articles)
 >   * [QuantStart Reading List](https://www.quantstart.com/articles/Quantitative-Finance-Reading-List)
