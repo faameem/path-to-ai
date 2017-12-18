@@ -63,6 +63,7 @@
 >     + XGBoost with Python
 >     + Deep Learning with Python
 >     + Long Short-Term Memory Networks with Python
+> * [Try Machine Learning](http://trymachinelearning.com/)
     
 
 
