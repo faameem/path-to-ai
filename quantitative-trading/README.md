@@ -57,36 +57,35 @@
 > * Mastering Pandas for Finance by Michael Heydt
 
 ### PTQT - Systematic Strategies Book List ###
-Finance: History
-                When Genius Failed (Roger Lowenstein)
-                A Man for All Markets (Edward O. Thorp, Nassim Nicholas Taleb)
-Finance: General
-                A Demon of Our Own Design (Richard Bookstaber)        
-                Against the Gods (Peter L. Bernstein)   
-                Fortune's Formula (William Poundstone)            
-                Inside the Black Box (Rishi Narang)         
-                Nudge (Richard H. Thaler)
-                Predictably Irrational (Dan Ariely)
-                Active Portfolio Management (Richard Grinold, Ronald Kahn)
-Finance: Math, Statistics
-                Black Swan (Nassim Nicholas Taleb)
-                Innumeracy (John Allen Paulos)              
-                The Signal and the Noise (Nate Silver)
-                Thinking Fast and Slow (Daniel Kahneman)  
-Finance: Equities
-                Active Equity Management (Xinfeng Felix Zhou, Sameer Jain)
-                Finding Alphas (Igor Tulchinsky)
-                Investment Fables (Aswath Damodaran)             
-Finance: Futures, Macros
-                Options, Futures, and Other Derivatives 8th (John C. Hull)
-Finance: Reference
-                The Handbook of Equity Derivatives (Jason Clark Francis, William W. Toy, J. Gregg Whittacker)
-                The WSJ Guide to Understanding Money and Investing (Kenneth M. Morris, Virginia B. Morris)
+> * **_Finance: History:_**
+>   + When Genius Failed (Roger Lowenstein)
+>   + A Man for All Markets (Edward O. Thorp, Nassim Nicholas Taleb)
+> * **_Finance: General:_**
+>   + A Demon of Our Own Design (Richard Bookstaber)        
+>   + Against the Gods (Peter L. Bernstein)   
+>   + Fortune's Formula (William Poundstone)            
+>   + Inside the Black Box (Rishi Narang)         
+>   + Nudge (Richard H. Thaler)
+>   + Predictably Irrational (Dan Ariely)
+>   + Active Portfolio Management (Richard Grinold, Ronald Kahn)
+> * **_Finance: Math, Statistics:_**
+>   + Black Swan (Nassim Nicholas Taleb)
+>   + Innumeracy (John Allen Paulos)              
+>   + The Signal and the Noise (Nate Silver)
+>   + Thinking Fast and Slow (Daniel Kahneman)  
+> * **_Finance: Equities:_**
+>   + Active Equity Management (Xinfeng Felix Zhou, Sameer Jain)
+>   + Finding Alphas (Igor Tulchinsky)
+>   + Investment Fables (Aswath Damodaran)             
+> * **_Finance: Futures, Macros:_**
+>   + Options, Futures, and Other Derivatives 8th (John C. Hull)
+> * **_Finance: Reference:_**
+>   + The Handbook of Equity Derivatives (Jason Clark Francis, William W. Toy, J. Gregg Whittacker)
+>   + The WSJ Guide to Understanding Money and Investing (Kenneth M. Morris, Virginia B. Morris)
 > * **_Management:_**
 >   + High Output Management (Andrew S. Grove)
 >   + Influence (Robert B. Cialdini)
 >   + The Hard Thing About Hard Things (Ben Horowitz)
-
 
 ### PTAI ###
 > * Hands on Machine Learning with Scikit-learn and Tensorflow by Aurelien Geron
