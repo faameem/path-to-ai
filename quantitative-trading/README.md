@@ -68,6 +68,7 @@
 >     + Long Short-Term Memory Networks with Python
 >     + Introduction to Time Series Forecasting with Python
 > * [Try Machine Learning](http://trymachinelearning.com/)
+> * Kaggle Weekends
     
 
 
